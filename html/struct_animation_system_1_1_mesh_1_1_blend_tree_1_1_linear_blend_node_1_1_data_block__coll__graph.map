@@ -1,0 +1,5 @@
+<map id="AnimationSystem::Mesh::BlendTree::LinearBlendNode::DataBlock" name="AnimationSystem::Mesh::BlendTree::LinearBlendNode::DataBlock">
+<area shape="rect" id="node1" title=" " alt="" coords="5,269,415,309"/>
+<area shape="rect" id="node2" title=" " alt="" coords="43,86,159,126"/>
+<area shape="rect" id="node3" href="$struct_animation_system_1_1_blend_lerp_value.html" title="A flot representing the value of a blend." alt="" coords="183,5,459,207"/>
+</map>

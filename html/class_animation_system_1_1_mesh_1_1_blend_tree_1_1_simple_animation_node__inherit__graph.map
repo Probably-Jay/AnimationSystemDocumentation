@@ -1,0 +1,6 @@
+<map id="AnimationSystem::Mesh::BlendTree::SimpleAnimationNode" name="AnimationSystem::Mesh::BlendTree::SimpleAnimationNode">
+<area shape="rect" id="node1" title="Node containing an animation." alt="" coords="507,401,926,485"/>
+<area shape="rect" id="node2" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_leaf_node.html" title="A blend tree node with no children. Nodes can inherit from this class to create a specialised leaf no..." alt="" coords="5,269,828,353"/>
+<area shape="rect" id="node3" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_node_base.html" title="Base class for nodes in the blend tree." alt="" coords="37,5,796,221"/>
+<area shape="rect" id="node4" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_i_animator_node.html" title="Interface for any node containing an animator." alt="" coords="853,277,1181,346"/>
+</map>

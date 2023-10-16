@@ -1,0 +1,3 @@
+<map id="AnimationSystem::ErrorStruct" name="AnimationSystem::ErrorStruct">
+<area shape="rect" id="node1" title="This struct should not be created directly, rather is used as a possible member of ValueResult&lt;T&gt;...." alt="" coords="5,5,367,207"/>
+</map>

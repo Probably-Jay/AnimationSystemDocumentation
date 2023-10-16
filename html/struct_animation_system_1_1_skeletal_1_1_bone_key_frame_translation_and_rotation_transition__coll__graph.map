@@ -1,0 +1,7 @@
+<map id="AnimationSystem::Skeletal::BoneKeyFrameTranslationAndRotationTransition" name="AnimationSystem::Skeletal::BoneKeyFrameTranslationAndRotationTransition">
+<area shape="rect" id="node1" title="Data container to pair together translation and rotation transition between keyframes." alt="" coords="141,431,839,529"/>
+<area shape="rect" id="node2" href="$struct_animation_system_1_1_skeletal_1_1_bone_key_frame_translation_transition.html" title=" " alt="" coords="61,269,919,368"/>
+<area shape="rect" id="node3" href="$struct_animation_system_1_1_skeletal_1_1_bone_key_frame_transition_base.html" title="Holds two keyframes and describes the transition between them." alt="" coords="97,108,883,207"/>
+<area shape="rect" id="node5" href="$struct_animation_system_1_1_skeletal_1_1_bone_key_frame_rotation_transition.html" title=" " alt="" coords="944,269,1852,368"/>
+<area shape="rect" id="node4" title=" " alt="" coords="9,5,80,45"/>
+</map>

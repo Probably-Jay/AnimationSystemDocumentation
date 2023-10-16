@@ -1,0 +1,4 @@
+<map id="AnimationSystem::Skeletal::BoneKeyFrameRotationTransition" name="AnimationSystem::Skeletal::BoneKeyFrameRotationTransition">
+<area shape="rect" id="node1" title=" " alt="" coords="5,167,913,265"/>
+<area shape="rect" id="node2" href="$struct_animation_system_1_1_skeletal_1_1_bone_key_frame_transition_base.html" title="Holds two keyframes and describes the transition between them." alt="" coords="66,5,853,119"/>
+</map>

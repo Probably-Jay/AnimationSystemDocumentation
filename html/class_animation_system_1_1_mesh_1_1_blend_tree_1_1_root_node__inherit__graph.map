@@ -1,0 +1,5 @@
+<map id="AnimationSystem::Mesh::BlendTree::RootNode" name="AnimationSystem::Mesh::BlendTree::RootNode">
+<area shape="rect" id="node1" title="The root node in an animation tree." alt="" coords="169,445,718,500"/>
+<area shape="rect" id="node2" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_regular_node.html" title="A blend tree node that may have children. Nodes can inherit from this class to create a specialised n..." alt="" coords="5,269,881,397"/>
+<area shape="rect" id="node3" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_node_base.html" title="Base class for nodes in the blend tree." alt="" coords="64,5,823,221"/>
+</map>

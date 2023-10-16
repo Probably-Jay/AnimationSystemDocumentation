@@ -1,0 +1,4 @@
+<map id="AnimationSystem::Skeletal::SkeletonSprite" name="AnimationSystem::Skeletal::SkeletonSprite">
+<area shape="rect" id="node1" title="An animated sprite, animated using skeletal animation." alt="" coords="17,196,789,309"/>
+<area shape="rect" id="node2" href="$class_animation_system_1_1_i_animated_sprite.html" title="A sprite with an animator." alt="" coords="5,5,800,148"/>
+</map>

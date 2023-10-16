@@ -1,0 +1,4 @@
+<map id="AnimationSystem::Mesh::AnimatedMeshFactory" name="AnimationSystem::Mesh::AnimatedMeshFactory">
+<area shape="rect" id="node1" title="Factory for animated meshes, contains skinned meshes and animations to prevent unnecessary duplicatio..." alt="" coords="5,123,700,207"/>
+<area shape="rect" id="node2" href="$class_animation_system_1_1_mesh_1_1_i_animation_container_provider.html" title="Interface to an object that contains an animationContainer." alt="" coords="153,5,552,75"/>
+</map>

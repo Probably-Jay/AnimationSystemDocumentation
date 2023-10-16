@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_i_animator_node.html" title="Interface for any node containing an animator." alt="" coords="352,5,676,31"/>
+<area shape="rect" id="node2" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_simple_animation_node.html" title="Node containing an animation." alt="" coords="724,5,1091,31"/>
+<area shape="rect" id="node3" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_node_base.html" title="Base class for nodes in the blend tree." alt="" coords="5,80,304,105"/>
+<area shape="rect" id="node4" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_leaf_node.html" title="A blend tree node with no children. Nodes can inherit from this class to create a specialised leaf no..." alt="" coords="367,55,661,80"/>
+<area shape="rect" id="node5" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_regular_node.html" title="A blend tree node that may have children. Nodes can inherit from this class to create a specialised n..." alt="" coords="357,104,671,129"/>
+<area shape="rect" id="node6" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_i_k_node.html" title="A node that performs an IK transformation on the result from it&#39;s child node." alt="" coords="767,55,1048,80"/>
+<area shape="rect" id="node7" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_linear_blend_node.html" title="A node with two children that linearly blends the results of each child node together." alt="" coords="739,104,1076,129"/>
+<area shape="rect" id="node9" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_root_node.html" title="The root node in an animation tree." alt="" coords="759,153,1055,179"/>
+<area shape="rect" id="node8" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_two_animators_linear_transition_node.html" title="Node that has two children, both of which are animation nodes, that can perform a transition between ..." alt="" coords="1139,104,1581,129"/>
+</map>

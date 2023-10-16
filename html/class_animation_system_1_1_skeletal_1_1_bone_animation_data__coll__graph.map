@@ -1,0 +1,3 @@
+<map id="AnimationSystem::Skeletal::BoneAnimationData" name="AnimationSystem::Skeletal::BoneAnimationData">
+<area shape="rect" id="node1" title="Parses and stores the translation and rotation frames of an animation for a specific bone." alt="" coords="5,5,697,104"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AnimationSystem::Skeletal::BoneKeyFrame" name="AnimationSystem::Skeletal::BoneKeyFrame">
+<area shape="rect" id="node1" title="Abstract base class for a key frame of a bone." alt="" coords="489,5,1008,89"/>
+<area shape="rect" id="node2" href="$struct_animation_system_1_1_skeletal_1_1_bone_rotation_key_frame.html" title=" " alt="" coords="5,145,719,214"/>
+<area shape="rect" id="node3" href="$struct_animation_system_1_1_skeletal_1_1_bone_translation_key_frame.html" title=" " alt="" coords="743,137,1528,221"/>
+</map>

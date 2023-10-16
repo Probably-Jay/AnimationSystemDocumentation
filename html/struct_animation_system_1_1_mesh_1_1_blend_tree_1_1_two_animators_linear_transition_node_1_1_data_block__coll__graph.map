@@ -1,0 +1,6 @@
+<map id="AnimationSystem::Mesh::BlendTree::TwoAnimatorsLinearTransitionNode::DataBlock" name="AnimationSystem::Mesh::BlendTree::TwoAnimatorsLinearTransitionNode::DataBlock">
+<area shape="rect" id="node1" title=" " alt="" coords="5,359,520,472"/>
+<area shape="rect" id="node2" href="$struct_animation_system_1_1_mesh_1_1_blend_tree_1_1_linear_blend_node_1_1_data_block.html" title=" " alt="" coords="58,269,467,309"/>
+<area shape="rect" id="node3" title=" " alt="" coords="95,86,211,126"/>
+<area shape="rect" id="node4" href="$struct_animation_system_1_1_blend_lerp_value.html" title="A flot representing the value of a blend." alt="" coords="235,5,511,207"/>
+</map>

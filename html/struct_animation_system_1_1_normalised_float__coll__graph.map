@@ -1,0 +1,3 @@
+<map id="AnimationSystem::NormalisedFloat" name="AnimationSystem::NormalisedFloat">
+<area shape="rect" id="node1" title="Float value guaranteed to always be normalised to the range [0, 1]." alt="" coords="5,5,595,119"/>
+</map>

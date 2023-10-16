@@ -1,0 +1,4 @@
+<map id="AnimationSystem::Mesh::BlendTree::IAnimatorNode" name="AnimationSystem::Mesh::BlendTree::IAnimatorNode">
+<area shape="rect" id="node1" title="Interface for any node containing an animator." alt="" coords="51,5,379,75"/>
+<area shape="rect" id="node2" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_simple_animation_node.html" title="Node containing an animation." alt="" coords="5,123,424,207"/>
+</map>

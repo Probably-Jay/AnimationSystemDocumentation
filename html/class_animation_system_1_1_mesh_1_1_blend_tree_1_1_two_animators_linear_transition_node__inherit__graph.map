@@ -1,0 +1,6 @@
+<map id="AnimationSystem::Mesh::BlendTree::TwoAnimatorsLinearTransitionNode" name="AnimationSystem::Mesh::BlendTree::TwoAnimatorsLinearTransitionNode">
+<area shape="rect" id="node1" title="Node that has two children, both of which are animation nodes, that can perform a transition between ..." alt="" coords="69,636,818,749"/>
+<area shape="rect" id="node2" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_linear_blend_node.html" title="A node with two children that linearly blends the results of each child node together." alt="" coords="12,445,875,588"/>
+<area shape="rect" id="node3" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_regular_node.html" title="A blend tree node that may have children. Nodes can inherit from this class to create a specialised n..." alt="" coords="5,269,881,397"/>
+<area shape="rect" id="node4" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_node_base.html" title="Base class for nodes in the blend tree." alt="" coords="64,5,823,221"/>
+</map>

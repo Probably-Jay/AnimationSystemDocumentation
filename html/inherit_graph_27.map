@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$struct_animation_system_1_1_skeletal_1_1_bone_key_frame.html" title="Abstract base class for a key frame of a bone." alt="" coords="5,31,284,56"/>
+<area shape="rect" id="node2" href="$struct_animation_system_1_1_skeletal_1_1_bone_rotation_key_frame.html" title=" " alt="" coords="339,5,666,31"/>
+<area shape="rect" id="node3" href="$struct_animation_system_1_1_skeletal_1_1_bone_translation_key_frame.html" title=" " alt="" coords="332,55,673,80"/>
+</map>

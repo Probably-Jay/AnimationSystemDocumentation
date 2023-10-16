@@ -1,0 +1,4 @@
+<map id="AnimationSystem::Mesh::AnimationPlayer" name="AnimationSystem::Mesh::AnimationPlayer">
+<area shape="rect" id="node1" title="A class responsible for playing animation clips." alt="" coords="9,211,703,441"/>
+<area shape="rect" id="node2" href="$class_animation_system_1_1_mesh_1_1_i_animation_player_config.html" title="Restricts the animationPlayer interface." alt="" coords="5,5,707,163"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="AnimationSystem::Mesh::BlendTree::NodeFactory" name="AnimationSystem::Mesh::BlendTree::NodeFactory">
+<area shape="rect" id="node1" title="Factory class for nodes. All nodes (except the RootNode) must have non&#45;public constructors and be fri..." alt="" coords="5,5,323,45"/>
+</map>

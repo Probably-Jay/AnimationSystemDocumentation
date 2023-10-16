@@ -1,0 +1,5 @@
+<map id="AnimationSystem::FileParsing::JsonResult" name="AnimationSystem::FileParsing::JsonResult">
+<area shape="rect" id="node1" title="Result of a parsed json file." alt="" coords="387,5,1073,148"/>
+<area shape="rect" id="node2" href="$class_animation_system_1_1_file_parsing_1_1_rapid_json_document_result.html" title=" " alt="" coords="5,196,719,339"/>
+<area shape="rect" id="node3" href="$class_animation_system_1_1_file_parsing_1_1_rapid_json_generic_value_result.html" title=" " alt="" coords="743,196,1456,339"/>
+</map>

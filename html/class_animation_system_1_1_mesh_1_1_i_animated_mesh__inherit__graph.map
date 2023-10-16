@@ -1,0 +1,4 @@
+<map id="AnimationSystem::Mesh::IAnimatedMesh" name="AnimationSystem::Mesh::IAnimatedMesh">
+<area shape="rect" id="node1" title="Restricted interface to an animatable mesh object." alt="" coords="12,5,383,133"/>
+<area shape="rect" id="node2" href="$class_animation_system_1_1_mesh_1_1_animated_mesh.html" title="An animatable mesh object, a skinned mesh containing an animator." alt="" coords="5,181,389,339"/>
+</map>

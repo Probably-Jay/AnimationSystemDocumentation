@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$struct_animation_system_1_1_skeletal_1_1_bone_key_frame_transition_base.html" title="Holds two keyframes and describes the transition between them." alt="" coords="5,31,369,56"/>
+<area shape="rect" id="node2" href="$struct_animation_system_1_1_skeletal_1_1_bone_key_frame_rotation_transition.html" title=" " alt="" coords="425,5,807,31"/>
+<area shape="rect" id="node3" href="$struct_animation_system_1_1_skeletal_1_1_bone_key_frame_translation_transition.html" title=" " alt="" coords="417,55,815,80"/>
+</map>

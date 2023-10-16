@@ -1,0 +1,3 @@
+<map id="AnimationSystem::Mesh::BlendTree::NodeBase::DataBlockBase" name="AnimationSystem::Mesh::BlendTree::NodeBase::DataBlockBase">
+<area shape="rect" id="node1" title="Base class for data blocks, allowing nodes to hold state that can be safely accessed from outside the..." alt="" coords="5,5,420,104"/>
+</map>

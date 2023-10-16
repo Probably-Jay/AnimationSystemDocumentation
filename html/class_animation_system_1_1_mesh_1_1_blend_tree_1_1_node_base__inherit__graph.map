@@ -1,0 +1,10 @@
+<map id="AnimationSystem::Mesh::BlendTree::NodeBase" name="AnimationSystem::Mesh::BlendTree::NodeBase">
+<area shape="rect" id="node1" title="Base class for nodes in the blend tree." alt="" coords="535,5,1294,221"/>
+<area shape="rect" id="node2" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_leaf_node.html" title="A blend tree node with no children. Nodes can inherit from this class to create a specialised leaf no..." alt="" coords="67,291,890,375"/>
+<area shape="rect" id="node4" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_regular_node.html" title="A blend tree node that may have children. Nodes can inherit from this class to create a specialised n..." alt="" coords="1046,269,1922,397"/>
+<area shape="rect" id="node3" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_simple_animation_node.html" title="Node containing an animation." alt="" coords="5,475,424,559"/>
+<area shape="rect" id="node5" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_i_k_node.html" title="A node that performs an IK transformation on the result from it&#39;s child node." alt="" coords="449,482,1162,551"/>
+<area shape="rect" id="node6" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_linear_blend_node.html" title="A node with two children that linearly blends the results of each child node together." alt="" coords="1186,445,2049,588"/>
+<area shape="rect" id="node8" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_root_node.html" title="The root node in an animation tree." alt="" coords="2073,489,2623,544"/>
+<area shape="rect" id="node7" href="$class_animation_system_1_1_mesh_1_1_blend_tree_1_1_two_animators_linear_transition_node.html" title="Node that has two children, both of which are animation nodes, that can perform a transition between ..." alt="" coords="1243,636,1992,749"/>
+</map>
